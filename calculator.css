@@ -16,7 +16,7 @@ a{
 }
 
 body{
-	background-image: linear-gradient(to bottom right, rgba(39, 231, 245, 0.8), rgba(39, 245, 135, 0.8), rgba(245, 169, 39, 0.8));
+	background-image: linear-gradient(to bottom right, #403B4A, #E7E9BB);
 }
 
 .container{
